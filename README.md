@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josemapi2012
 - 👀 I’m interested in python/web-development
 - 🌱 I’m currently learning full-stack web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me josemapi2012@gmail.com
 
 <!---
